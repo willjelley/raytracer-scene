@@ -19,4 +19,6 @@ $ ./raytracer
 
 The anti-aliasing feature is enabled by default. If you wish to disable anti-aliasing
 you must set the global boolean variable anti_alias to false (line 30 of RayTracer.cpp).
+Note that without anti-aliasing the raytracer will take less time to load, but some
+objects may appear more jagged around the edges.
 
