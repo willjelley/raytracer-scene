@@ -1,7 +1,8 @@
 # 3D Raytracer Scene.
 
 The scene contains simple geometric objects which incorparate physical concepts such
-as refraction and reflection.
+as refraction and reflection. This was completed as an assignment for COSC363 Computer
+Graphics at University of Canterbury in May 2016.
 
 ## Author
 
